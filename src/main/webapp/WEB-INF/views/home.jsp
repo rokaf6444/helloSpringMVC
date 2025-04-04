@@ -11,6 +11,6 @@
     <title>$Title$</title>
 </head>
 <body>
-<p><a href="${pageContext.request.contextPath}/offers"> Shoew current offers</a></p>
+<p><a href="${pageContext.request.contextPath}/offers"> Show current offers</a></p>
 </body>
 </html>
